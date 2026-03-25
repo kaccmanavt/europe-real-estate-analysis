@@ -1,1 +1,21 @@
-
+city,country,price_center_sqm,price_outside_sqm,rent_center_1br,rent_outside_1br,gross_rental_yield
+Paris,France,17200,12500,1500,1200,2.5
+London,United Kingdom,12800,8800,2100,1700,3.1
+Zurich,Switzerland,11500,9800,1800,1450,2.8
+Geneva,Switzerland,11200,9500,1700,1380,2.9
+Oslo,Norway,9500,7800,1400,1150,3.5
+Amsterdam,Netherlands,8200,6500,1600,1300,3.2
+Stockholm,Sweden,7800,6200,1200,950,3.8
+Munich,Germany,7700,6000,1350,1100,3.4
+Dublin,Ireland,7200,5800,1650,1350,3.3
+Milan,Italy,6800,6500,1150,950,3.9
+Vienna,Austria,6500,5200,1000,800,4.2
+Berlin,Germany,6200,4800,1050,850,4.0
+Brussels,Belgium,5800,5600,1100,900,3.7
+Madrid,Spain,5400,4200,1100,900,4.1
+Prague,Czech Republic,4800,3500,850,650,5.0
+Lisbon,Portugal,4500,3600,950,750,4.5
+Warsaw,Poland,2800,2200,700,550,5.8
+Budapest,Hungary,2200,1800,550,450,6.2
+Sofia,Bulgaria,1550,1250,450,380,6.5
+Bucharest,Romania,1650,1350,480,400,6.3
