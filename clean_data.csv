@@ -1,1 +1,21 @@
-
+city,country,region,price_center_sqm,price_outside_sqm,rent_center_1br,rent_outside_1br,gross_rental_yield,apartment_50sqm_center,price_diff_percent
+Paris,France,Western Europe,17200,12500,1500,1200,2.5,860000,37.6
+London,United Kingdom,Western Europe,12800,8800,2100,1700,3.1,640000,45.5
+Zurich,Switzerland,Western Europe,11500,9800,1800,1450,2.8,575000,17.3
+Geneva,Switzerland,Western Europe,11200,9500,1700,1380,2.9,560000,17.9
+Oslo,Norway,Northern Europe,9500,7800,1400,1150,3.5,475000,21.8
+Amsterdam,Netherlands,Western Europe,8200,6500,1600,1300,3.2,410000,26.2
+Stockholm,Sweden,Northern Europe,7800,6200,1200,950,3.8,390000,25.8
+Munich,Germany,Western Europe,7700,6000,1350,1100,3.4,385000,28.3
+Dublin,Ireland,Western Europe,7200,5800,1650,1350,3.3,360000,24.1
+Milan,Italy,Southern Europe,6800,6500,1150,950,3.9,340000,4.6
+Vienna,Austria,Western Europe,6500,5200,1000,800,4.2,325000,25.0
+Berlin,Germany,Western Europe,6200,4800,1050,850,4.0,310000,29.2
+Brussels,Belgium,Western Europe,5800,5600,1100,900,3.7,290000,3.6
+Madrid,Spain,Southern Europe,5400,4200,1100,900,4.1,270000,28.6
+Prague,Czech Republic,Eastern Europe,4800,3500,850,650,5.0,240000,37.1
+Lisbon,Portugal,Southern Europe,4500,3600,950,750,4.5,225000,25.0
+Warsaw,Poland,Eastern Europe,2800,2200,700,550,5.8,140000,27.3
+Budapest,Hungary,Eastern Europe,2200,1800,550,450,6.2,110000,22.2
+Bucharest,Romania,Eastern Europe,1650,1350,480,400,6.3,82500,22.2
+Sofia,Bulgaria,Eastern Europe,1550,1250,450,380,6.5,77500,24.0
